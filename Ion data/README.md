@@ -1,18 +1,18 @@
-To import data into python
+To import the data into python
 
 Click on **ion.csv**
 
 A new webpage will open with option
 
-**Raw**
+  - **Raw**
 
-or
+  or
 
-**Download**
+  - **Download**
 
 in the top right region.
 
-
+<br> 
 Click on Raw' or 'Download' which ever is available.
 
   - A new webpage will open displaying the data.
