@@ -15,6 +15,6 @@ in the top right region.
 
 Click on Raw' or 'Download' which ever is available.
 
-A new webpage will open displaying the data.
+  - A new webpage will open displaying the data.
 
-Copy the url and paste it in `pd.read_csv('url')`.
+  - Copy this page's url and paste it in `pd.read_csv('url')`.
