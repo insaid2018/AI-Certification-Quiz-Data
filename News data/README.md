@@ -1,14 +1,3 @@
-To import data into python
+Download the news.zip file and extract it using softwares like 7zip or Winrar.
 
-Click on news.csv
-
-A new webpage will open with option
-
-'Raw'
-
-or
-
-'Download'
-
-
-Download the new.zip file and extract using softwar like 7zip or winrar. Copy the url and paste it in pd.read_csv('url').
+Use pandas read_csv() function to read the news.csv file.
